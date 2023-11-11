@@ -35,18 +35,17 @@ ul {
     color: #2E2F42;
 }
 
- .navigation-item,.navigation-item-studio {
+ .navigation-item {
     color: #2E2F42;
     font-weight: 500;
  }
 
- .navigation-item:hover,
- .navigation-item-studio:hover {
+ .navigation-item:hover {
     color:  #404BBF;
     font-weight: 500;
  }
 
-.navigation-item-studio:focus {
+.navigation-item:focus {
     color: #404BBF;
   }
 
@@ -91,7 +90,7 @@ background-color: #2E2F42;
 
 /*Our advantage*/
 
-.column-title {
+.item-title {
 color: #2E2F42;
 text-align: center;
 font-size: 20px;
